@@ -1,0 +1,8 @@
+{
+  "name": "ts-tests-merge-sort",
+  "version": "1.0.0",
+  "description": "Project to test merge_sort in TypeScript",
+  "main": "app.ts",
+  "author": "Leivas",
+  "license": "MIT"
+}
